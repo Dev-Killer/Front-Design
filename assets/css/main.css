@@ -5693,7 +5693,8 @@ font-size: 24px;
     background-color: #fff;
     padding: 20px;
     overflow: hidden;
-  border-radius:5px
+    border-radius:5px;
+    margin-bottom: 70px
 }
 
 .body-content .sign-in-page .sign-in h4,
@@ -5702,7 +5703,6 @@ font-size: 24px;
   padding-bottom: 14px;
   border-bottom: 1px solid #eaeaea;
   font-weight:600
-
 }
 .body-content .sign-in-page .sign-in p,
 .body-content .sign-in-page .create-new-account p {
